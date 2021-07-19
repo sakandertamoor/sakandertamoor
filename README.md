@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a PHP Developer working in Wah Cantt - Remote, Pakistan.
+
+NOW
+
+ - ✨ Crafted last Laracon Online website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this?
+
+BIO
+
+- 🏢 I'm currently working at Code Islamabad
+- ⚙️ I use daily: .php, .js, .html, .css
+- 🌍 I'm mostly active within the Developer Community
+- 🌱 Learning all about Open Source
+- 💬 Ping me about Web Development.
+- 📫 Reach me: linkedin.com/in/sakandertamoor/
+- ⚡️ Fun fact: I'm a huge fan xbox gaming.
