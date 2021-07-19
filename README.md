@@ -20,8 +20,8 @@ I'm a PHP Developer working in Wah Cantt - Remote, Pakistan.
 
 NOW
 
- - ✨ Crafted last Laracon Online website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
+ - ✨ Crafted last blog website;
+- 🇵🇹 Planning the "Nexus Application";
 - 🍑 What about this?
 
 BIO
