@@ -28,7 +28,7 @@ BIO
 
 - 🏢 I'm currently working at Code Islamabad
 - ⚙️ I use daily: .php, .js, .html, .css
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning React.JS. you can find updated code on laravelapi-reactjs repo
 - 🌍 I'm mostly active within the Developer Community
 - 🌱 Learning all about Open Source
 - 💬 Ping me about Web Development.
